@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-
   public static void sortImg(String[] t, String[] arrType, String format) {
     System.out.println();
     for(int i = 0; i < t.length; i++) {
